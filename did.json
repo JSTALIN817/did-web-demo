@@ -1,0 +1,18 @@
+{
+  "id": "did:web:JSTALIN817.github.io:did-web-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:JSTALIN817.github.io:did-web-demo#a90aee115e21146fcbff5909272661e75075f06304f2acb3641d3618f7c71a10",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:JSTALIN817.github.io:did-web-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "dmvZSGS-zlUEiiCA67JwMxSYtSRl-ArwXOBSY02RSgIvLtMsmnU8ZoNPbPs_FvBu",
+        "y": "3wVCIOkwX2iSsqT2x3hg3QvJUhBcAMK9IqJgzXXzDruySIb5jWTyHTzsyalVIPGy",
+        "kid": "#a90aee115e21146fcbff5909272661e75075f06304f2acb3641d3618f7c71a10",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
